@@ -1,0 +1,9 @@
+﻿<Application x:Class="Anghel_Otilia_Alexandra_Proiect.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Anghel_Otilia_Alexandra_Proiect"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
